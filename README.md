@@ -7,3 +7,4 @@ The goal is to practice Git collaboration and workflows in a small team.
 - 👥 Team: Up to 3 students  
 - 🏫 School: ESGI  
 
+
