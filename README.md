@@ -1,4 +1,7 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 77bdacf (Modifying README.md file)
 # GitProjetESGI-IWJ
 
 This repository is part of a Git training project given by ESGI.  
@@ -8,6 +11,7 @@ The goal is to practice Git collaboration and workflows in a small team.
 - 👥 Team: Up to 3 students  
 - 🏫 School: ESGI  
 
+<<<<<<< HEAD
 =======
 # Git Learning Project
 
@@ -23,3 +27,5 @@ git clone https://github.com/your-username/git-learning-project.git
 cd git-learning-project
 >>>>>>> d1dc6bc (Add bases files)
 
+=======
+>>>>>>> 77bdacf (Modifying README.md file)
