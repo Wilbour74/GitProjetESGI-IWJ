@@ -1,44 +1,0 @@
-[33mcommit 3ab71cbd1208da4c02742bb638273480296ced5c[m[33m ([m[1;36mHEAD -> [m[1;32mfeat/gpg-test[m[33m, [m[1;31morigin/feat/gpg-test[m[33m)[m
-[41mGood "git" signature with ED25519 key SHA256:CjHW8/2/prmKGYlgTmg9Zd47QaM1VipoQjR+Z9pG5os[m
-[41m/home/lsng/.ssh/allowed_signers:1: invalid key[m
-[41mNo principal matched.[m
-Author: LS <lsng@protonmail.com>
-Date:   Mon Jun 30 10:28:15 2025 +0200
-
-    Test: SSH commit signature
-
-[33mcommit f0ea173c64158eefb31621e538708214b9755984[m
-[41mGood "git" signature with ED25519 key SHA256:CjHW8/2/prmKGYlgTmg9Zd47QaM1VipoQjR+Z9pG5os[m
-[41m/home/lsng/.ssh/allowed_signers:1: invalid key[m
-[41mNo principal matched.[m
-Author: LS <lsng@protonmail.com>
-Date:   Mon Jun 30 10:25:52 2025 +0200
-
-    remove test file
-
-[33mcommit 6d07ac4a433ca0c1e101b904979e0d8d74667cdd[m
-[41mGood "git" signature with ED25519 key SHA256:CjHW8/2/prmKGYlgTmg9Zd47QaM1VipoQjR+Z9pG5os[m
-[41m/home/lsng/.ssh/allowed_signers:1: invalid key[m
-[41mNo principal matched.[m
-Author: LS <lsng@protonmail.com>
-Date:   Mon Jun 30 10:24:18 2025 +0200
-
-    add test file
-
-[33mcommit 44d77e93efd30c781be1f4765c1ba45cc25d7829[m
-[41mGood "git" signature with ED25519 key SHA256:CjHW8/2/prmKGYlgTmg9Zd47QaM1VipoQjR+Z9pG5os[m
-[41m/home/lsng/.ssh/allowed_signers:1: invalid key[m
-[41mNo principal matched.[m
-Author: MarloneBe <lsng@protonmail.com>
-Date:   Mon Jun 30 10:22:25 2025 +0200
-
-    feat: Add test readme.md
-
-[33mcommit 0e1ed70aedc2228e5b97fe508df029a8dd814879[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
-[41mgpg: Signature made lun. 30 juin 2025 10:01:32 CEST[m
-[41mgpg:                using RSA key B5690EEEBB952194[m
-[41mgpg: Can't check signature: No public key[m
-Author: Wilbour74 <118726546+Wilbour74@users.noreply.github.com>
-Date:   Mon Jun 30 10:01:32 2025 +0200
-
-    Initial commit
