@@ -8,3 +8,5 @@ vendor/
 .vscode/
 coverage/
 composer.lock
+node_modules/
+
